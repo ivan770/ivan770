@@ -9,3 +9,7 @@ You may find some cool stuff here, including:
 * [Laravel HTTP client](https://github.com/ivan770/laravel-httpclient) - HTTP client for Laravel framework, backed by Symfony components
 * [Spartan MQ support for Laravel](https://github.com/ivan770/laravel-spartan) - Laravel queues, backed by Spartan MQ
 * *useless and forgotten repos*
+
+[![Stats](https://github-readme-stats.vercel.app/api?username=ivan770&hide_rank=true&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ivan770&layout=compact&hide=html,css&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
