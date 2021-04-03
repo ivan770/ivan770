@@ -8,4 +8,3 @@ You can find some cool stuff here, including but not limited to:
 * [Laravel HTTP client](https://github.com/ivan770/laravel-httpclient) - HTTP client for Laravel framework, backed by Symfony components
 * [Spartan MQ support for Laravel](https://github.com/ivan770/laravel-spartan) - Laravel queues, backed by Spartan MQ
 * *useless and forgotten repos*
-* 
