@@ -1,11 +1,3 @@
-### Uhh... hi!
+### Hello!
 
-You can find some cool stuff here, including but not limited to:
-
-* [Spartan MQ](https://github.com/ivan770/spartan) - Self-hosted MQ service written in Rust
-* [EMS](https://github.com/ivan770/ems) - Fully-fledged AudioSocket compatible server with support for call transcriptions and voice synthesis
-* [AudioSocket](https://github.com/ivan770/audiosocket) - Rust [AudioSocket protocol](https://wiki.asterisk.org/wiki/display/AST/AudioSocket) library
-* [Ares](https://github.com/ivan770/ares) - Basic file encryption utility (also written in Rust)
-* [Laravel HTTP client](https://github.com/ivan770/laravel-httpclient) - HTTP client for Laravel framework, backed by Symfony components
-* [Spartan MQ support for Laravel](https://github.com/ivan770/laravel-spartan) - Laravel queues, backed by Spartan MQ
-* *useless and forgotten repos*
+[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/ivan770?cardType=github&theme=github-dark&preferLogin=true)](https://git.io/awesome-stats-card)
