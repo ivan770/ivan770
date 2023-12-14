@@ -1,8 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1314" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="729" class="">
     <defs>
         <style/>
     </defs>
-    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h1,h2{margin:8px 0 2px;padding:0;color:#0366d6;font-size:20px;font-weight:700}h2{font-weight:400;font-size:16px}.gauge text,h1 svg,h2 svg{fill:currentColor}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.row{display:flex;flex-wrap:wrap}.row section{flex:1 1 0}.fill-width{width:100%}.avatar{border-radius:50%;margin:0 6px}.calendar.field{margin:4px 0 4px 7px}.calendar .day{outline:1px solid rgba(27,31,35,.04);outline-offset:-1px}.gauge{stroke-linecap:round;fill:none}.gauge.info{color:#58a6ff}.gauge-arc,.gauge-base{stroke:currentColor;stroke-width:10}.gauge-base{stroke-opacity:.2}.gauge-arc{fill:none;stroke-dashoffset:0;animation-delay:250ms;animation:animation-gauge 1s ease forwards}.gauge text{font-size:40px;font-family:monospace;text-anchor:middle;font-weight:600}.gauge .title{font-size:18px;color:#777}.repository{display:flex;flex-direction:column;width:100%;margin:6px 0}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}svg.calendar{margin-left:13px;margin-top:4px}svg.calendar text{font-size:18px;fill:currentColor}.added{color:#3fb950}.field.license.details{display:flex;justify-content:space-between}.achievement{display:flex;margin:4px 0}.achievement .icon{margin:0 4px;width:44px;height:44px}.achievement .text{font-size:12px;color:#666}.achievement .title{font-size:14px;color:#58a6ff}.achievement .gauge.info{color:#58a6ff}.achievement .value{background-color:#58a6ff26}.achievement.x .title{color:#666}.achievement.x .gauge.info{color:#b0b0b0}.achievement.x .value{background-color:#b0b0b026}.achievement.b .title{color:#9d8fff}.achievement.b .gauge.info{color:#9e91ff}.achievement.b .value{background-color:#9e91ff26}.achievement.a .title{color:#d79533}.achievement.a .gauge.info{color:#e7bd69}.achievement.a .value{background-color:#e7bd6926}.achievement.s .gauge.info,.achievement.s .title{color:#eb355e}.achievement.s .value{background-color:#eb355e26}.achievement .gh,.achievement .value{border:1px solid currentColor;border-radius:16px;font-size:10px;padding:0 5px;white-space:nowrap}.achievement .gauge-arc,.achievement .gauge-base{stroke-width:6}.achievement .value-wrapper{margin-bottom:-50px;margin-top:36px;display:none}.achievement .value{margin-left:46px}.achievements.compact{display:flex;flex-wrap:wrap}.achievements.compact .achievement{flex-direction:column-reverse;align-items:center;width:80px}#metrics-end,.achievements.compact .info{width:100%}.achievements.compact .achievement .title{margin-bottom:2px;text-transform:capitalize;text-align:center}.achievements.compact .achievement .title .prefix{min-height:13px;font-size:10px;display:block;margin-bottom:-.25rem}.achievements.compact .achievement .value-wrapper{display:flex}.achievements.compact .achievement .gh,.achievements.compact .achievement .text{display:none}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
+    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h1,h2{margin:8px 0 2px;padding:0;color:#0366d6;font-size:20px;font-weight:700}h2{font-weight:400;font-size:16px}.gauge text,h1 svg,h2 svg{fill:currentColor}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.row{display:flex;flex-wrap:wrap}.row section{flex:1 1 0}.avatar{border-radius:50%;margin:0 6px}.calendar.field{margin:4px 0 4px 7px}.calendar .day{outline:1px solid rgba(27,31,35,.04);outline-offset:-1px}.gauge{stroke-linecap:round;fill:none}.achievement .gauge.info,.gauge.info{color:#58a6ff}.gauge-arc,.gauge-base{stroke:currentColor;stroke-width:10}.gauge-base{stroke-opacity:.2}.gauge-arc{fill:none;stroke-dashoffset:0;animation-delay:250ms;animation:animation-gauge 1s ease forwards}.gauge text{font-size:40px;font-family:monospace;text-anchor:middle;font-weight:600}.gauge .title{font-size:18px;color:#777}.repository{display:flex;flex-direction:column;width:100%;margin:6px 0}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .issue{display:inline;color:#58a6ff}svg.calendar{margin-left:13px;margin-top:4px}svg.calendar text{font-size:18px;fill:currentColor}.added{color:#3fb950}.achievement{display:flex;margin:4px 0}.achievement .icon{margin:0 4px;width:44px;height:44px}.achievement .text{font-size:12px;color:#666}.achievement .title{font-size:14px;color:#58a6ff}.achievement .value{background-color:#58a6ff26}.achievement.x .title{color:#666}.achievement.x .gauge.info{color:#b0b0b0}.achievement.x .value{background-color:#b0b0b026}.achievement.b .title{color:#9d8fff}.achievement.b .gauge.info{color:#9e91ff}.achievement.b .value{background-color:#9e91ff26}.achievement.a .title{color:#d79533}.achievement.a .gauge.info{color:#e7bd69}.achievement.a .value{background-color:#e7bd6926}.achievement.s .gauge.info,.achievement.s .title{color:#eb355e}.achievement.s .value{background-color:#eb355e26}.achievement .gh,.achievement .value{border:1px solid currentColor;border-radius:16px;font-size:10px;padding:0 5px;white-space:nowrap}.achievement .gauge-arc,.achievement .gauge-base{stroke-width:6}.achievement .value-wrapper{margin-bottom:-50px;margin-top:36px;display:none}.achievement .value{margin-left:46px}.achievements.compact{display:flex;flex-wrap:wrap}.achievements.compact .achievement{flex-direction:column-reverse;align-items:center;width:80px}#metrics-end,.achievements.compact .info{width:100%}.achievements.compact .achievement .title{margin-bottom:2px;text-transform:capitalize;text-align:center}.achievements.compact .achievement .title .prefix{min-height:13px;font-size:10px;display:block;margin-bottom:-.25rem}.achievements.compact .achievement .value-wrapper{display:flex}.achievements.compact .achievement .gh,.achievements.compact .achievement .text{display:none}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
     <style/>
     <foreignObject x="0" y="0" width="100%" height="100%">
         <div xmlns="http://www.w3.org/1999/xhtml" xmlns:xlink="http://www.w3.org/1999/xlink" class="items-wrapper">
@@ -138,7 +138,7 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M2.75 1.5a.25.25 0 00-.25.25v12.5c0 .138.112.25.25.25h10.5a.25.25 0 00.25-.25V4.664a.25.25 0 00-.073-.177l-2.914-2.914a.25.25 0 00-.177-.073H2.75zM1 1.75C1 .784 1.784 0 2.75 0h7.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v9.586A1.75 1.75 0 0113.25 16H2.75A1.75 1.75 0 011 14.25V1.75zm7 1.5a.75.75 0 01.75.75v1.5h1.5a.75.75 0 010 1.5h-1.5v1.5a.75.75 0 01-1.5 0V7h-1.5a.75.75 0 010-1.5h1.5V4A.75.75 0 018 3.25zm-3 8a.75.75 0 01.75-.75h4.5a.75.75 0 010 1.5h-4.5a.75.75 0 01-.75-.75z"/>
                                     </svg>
-                                    19.6m added, 12.1m removed
+                                    29.1m added, 22.7m removed
                                 </div>
                             </section>
                             <section>
@@ -644,277 +644,11 @@
                 </h2>
                 <div class="row">
                     <section>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 20 commits in
-                                        <span class="repo">ivan770/home-manager</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">master</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#ac72169</div>
-                                        <div class="message">firefox: fix folders not showing in toolbar
-
-Fixes #4568</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#948703f</div>
-                                        <div class="message">broot: Add nushell integration (#4714)
-
-Add additional config flag `enableNushellIntegration` in broot.nix to
-setup broot/br for nushell.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#e504e8d</div>
-                                        <div class="message">Translate using Weblate (Dutch)
-
-Currently translated at 100.0% (18 of 18 strings)
-
-Translate using Weblate (Dutch)
-
-Currently translated at 91.4% (32 of 35 strings)
-
-Co-authored-by: Zurga &lt;jim.lemmers@gmail.com&gt;
-Translate-URL: https://hosted.weblate.org/projects/home-manager/cli/nl/
-Translate-URL: https://hosted.weblate.org/projects/home-manager/modules/nl/
-Translation: Home Manager/Home Manager CLI
-Translation: Home Manager/Home Manager Modules</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#efe28e2</div>
-                                        <div class="message">Translate using Weblate (Italian)
-
-Currently translated at 100.0% (18 of 18 strings)
-
-Translate using Weblate (Italian)
-
-Currently translated at 100.0% (35 of 35 strings)
-
-Co-authored-by: Lorenzo Brzek &lt;lorenzoservizi@proton.me&gt;
-Translate-URL: https://hosted.weblate.org/projects/home-manager/cli/it/
-Translate-URL: https://hosted.weblate.org/projects/home-manager/modules/it/
-Translation: Home Manager/Home Manager CLI
-Translation: Home Manager/Home Manager Modules</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#ce67b37</div>
-                                        <div class="message">Translate using Weblate (Russian)
-
-Currently translated at 100.0% (35 of 35 strings)
-
-Co-authored-by: Blezz Rot &lt;markus.jenya04@yandex.ru&gt;
-Translate-URL: https://hosted.weblate.org/projects/home-manager/cli/ru/
-Translation: Home Manager/Home Manager CLI</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#0d40107</div>
-                                        <div class="message">flake.lock: Update
-
-Flake lock file updates:
-
-• Updated input 'nixpkgs':
-    'github:NixOS/nixpkgs/5a09cb4b393d58f9ed0d9ca1555016a8543c2ac8' (2023-11-24)
-  → 'github:NixOS/nixpkgs/e92039b55bcd58469325ded85d4f58dd5a4eaf58' (2023-11-29)</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#4a8545f</div>
-                                        <div class="message">swayidle: add systemd suspend to example</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#9e86982</div>
-                                        <div class="message">swayidle: daemonize swaylock in example configuration</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#ef90882</div>
-                                        <div class="message">Translate using Weblate (Russian)
-
-Currently translated at 94.2% (33 of 35 strings)
-
-Co-authored-by: Nikolay Mokrinsky &lt;me@mokrinsky.ru&gt;
-Translate-URL: https://hosted.weblate.org/projects/home-manager/cli/ru/
-Translation: Home Manager/Home Manager CLI</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#3d154da</div>
-                                        <div class="message">Translate using Weblate (Russian)
-
-Currently translated at 94.2% (33 of 35 strings)
-
-Co-authored-by: Blezz Rot &lt;markus.jenya04@yandex.ru&gt;
-Translate-URL: https://hosted.weblate.org/projects/home-manager/cli/ru/
-Translation: Home Manager/Home Manager CLI</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#2a604e6</div>
-                                        <div class="message">Translate using Weblate (Portuguese (Brazil))
-
-Currently translated at 100.0% (18 of 18 strings)
-
-Translate using Weblate (Portuguese (Brazil))
-
-Currently translated at 100.0% (35 of 35 strings)
-
-Co-authored-by: Gabriel Fontes &lt;hi@m7.rs&gt;
-Translate-URL: https://hosted.weblate.org/projects/home-manager/cli/pt_BR/
-Translate-URL: https://hosted.weblate.org/projects/home-manager/modules/pt_BR/
-Translation: Home Manager/Home Manager CLI
-Translation: Home Manager/Home Manager Modules</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#db1878f</div>
-                                        <div class="message">home-manager: add 24.05 as valid state version</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#7c97c46</div>
-                                        <div class="message">signaturepdf: add service</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#8340c0b</div>
-                                        <div class="message">flake.lock: Update
-
-Flake lock file updates:
-
-• Updated input 'nixpkgs':
-    'github:NixOS/nixpkgs/c757e9bd77b16ca2e03c89bf8bc9ecb28e0c06ad' (2023-11-17)
-  → 'github:NixOS/nixpkgs/5a09cb4b393d58f9ed0d9ca1555016a8543c2ac8' (2023-11-24)
-
-Co-authored-by: github-actions[bot] &lt;github-actions[bot]@users.noreply.github.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#a462e73</div>
-                                        <div class="message">yazi: update shell integrations and docs</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#8cedd63</div>
-                                        <div class="message">fish: support flexible abbreviations
-
-https://github.com/fish-shell/fish-shell/releases/tag/3.6.0</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#e1f3b36</div>
-                                        <div class="message">home-manager: set unstable release to 24.05</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#aeb2232</div>
-                                        <div class="message">home-manager: set stable release to 23.11</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#134deb4</div>
-                                        <div class="message">bat: support boolean flags in config
-
-Previously, users cannot enable boolean flags like `--show-all` in bat's
-config since all options were expected to be either a string, or a list
-of strings. With this commit boolean flags are simply appended to the
-end of the config if they are set to `true`, and discarded otherwise.
-
-For example, the config
-
-    {
-      theme = "TwoDark";
-      show-all = true;
-      lessopen = false;
-    }
-
-would produce a config file that looks like
-
-    --theme='TwoDark'
-    --show-all
-
-Fixes #4657</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#1bd1e86</div>
-                                        <div class="message">ruff: add module
-
-ruff is Python linter and code formatter, written in Rust.
-See &lt;https://docs.astral.sh/ruff/&gt;.</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">ivan770/modulo</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#3c0878e</div>
-                                        <div class="message">Add minimal desktop HM modules</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">ivan770/modulo</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#b6bab9b</div>
-                                        <div class="message">Fix CI</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M11.75 2.5a.75.75 0 100 1.5.75.75 0 000-1.5zm-2.25.75a2.25 2.25 0 113 2.122V6A2.5 2.5 0 0110 8.5H6a1 1 0 00-1 1v1.128a2.251 2.251 0 11-1.5 0V5.372a2.25 2.25 0 111.5 0v1.836A2.492 2.492 0 016 7h4a1 1 0 001-1v-.628A2.25 2.25 0 019.5 3.25zM4.25 12a.75.75 0 100 1.5.75.75 0 000-1.5zM3.5 3.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Deleted
-                      branch
-                                        <span class="code">update_flake_lock_action</span>
-                                        in
-                                        <span class="repo">ivan770/modulo</span>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">ivan770/modulo</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#9d2c0c9</div>
-                                        <div class="message">Update flake.lock (#1)
-
-Co-authored-by: github-actions[bot] &lt;github-actions[bot]@users.noreply.github.com&gt;</div>
-                                    </div>
-                                </div>
-                            </section>
+                        <div class="field">
+                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                <path fill-rule="evenodd" d="M1.75 1.5a.25.25 0 00-.25.25v9.5c0 .138.112.25.25.25h2a.75.75 0 01.75.75v2.19l2.72-2.72a.75.75 0 01.53-.22h6.5a.25.25 0 00.25-.25v-9.5a.25.25 0 00-.25-.25H1.75zM0 1.75C0 .784.784 0 1.75 0h12.5C15.216 0 16 .784 16 1.75v9.5A1.75 1.75 0 0114.25 13H8.06l-2.573 2.573A1.457 1.457 0 013 14.543V13H1.75A1.75 1.75 0 010 11.25v-9.5zM9 9a1 1 0 11-2 0 1 1 0 012 0zm-.25-5.25a.75.75 0 00-1.5 0v2.5a.75.75 0 001.5 0v-2.5z"/>
+                            </svg>
+                            No recent activity
                         </div>
                     </section>
                 </div>
@@ -1273,7 +1007,7 @@ Co-authored-by: github-actions[bot] &lt;github-actions[bot]@users.noreply.github
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Maintainer
-                                    <span class="gh">ranked 257k out of 55.9m repositories</span>
+                                    <span class="gh">ranked 257k out of 62m repositories</span>
                                     <div class="value-wrapper">
                                         <div class="value">139</div>
                                     </div>
@@ -1322,7 +1056,7 @@ Co-authored-by: github-actions[bot] &lt;github-actions[bot]@users.noreply.github
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 855k out of 55.9m repositories</span>
+                                    <span class="gh">ranked 855k out of 62m repositories</span>
                                     <div class="value-wrapper">
                                         <div class="value">13</div>
                                     </div>
