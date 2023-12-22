@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1283" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1031" class="">
     <defs>
         <style/>
     </defs>
@@ -138,7 +138,7 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M2.75 1.5a.25.25 0 00-.25.25v12.5c0 .138.112.25.25.25h10.5a.25.25 0 00.25-.25V4.664a.25.25 0 00-.073-.177l-2.914-2.914a.25.25 0 00-.177-.073H2.75zM1 1.75C1 .784 1.784 0 2.75 0h7.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v9.586A1.75 1.75 0 0113.25 16H2.75A1.75 1.75 0 011 14.25V1.75zm7 1.5a.75.75 0 01.75.75v1.5h1.5a.75.75 0 010 1.5h-1.5v1.5a.75.75 0 01-1.5 0V7h-1.5a.75.75 0 010-1.5h1.5V4A.75.75 0 018 3.25zm-3 8a.75.75 0 01.75-.75h4.5a.75.75 0 010 1.5h-4.5a.75.75 0 01-.75-.75z"/>
                                     </svg>
-                                    20.5m added, 12.7m removed
+                                    37m added, 24.3m removed
                                 </div>
                             </section>
                             <section>
@@ -662,6 +662,66 @@
                                     </svg>
                                     <div class="content">
                                         Pushed 1 commit in
+                                        <span class="repo">ivan770/nixpkgs</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">corrupter</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#381f422</div>
+                                        <div class="message">corrupter: init at 1.0</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">ivan770/nixpkgs</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">corrupter</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#824efc5</div>
+                                        <div class="message">corrupter: init at 1.0</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">ivan770/nixpkgs</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">corrupter</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#1369863</div>
+                                        <div class="message">corrupter: init at 1.0</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
                                         <span class="repo">vaultie/josekit-rs</span>
                                     </div>
                                 </div>
@@ -690,220 +750,6 @@
                                     <div class="commit">
                                         <div class="sha">#95df070</div>
                                         <div class="message">Remove default fonts</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">ivan770/modulo</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#12eee6b</div>
-                                        <div class="message">Add CORS configuration support to Nginx</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 20 commits in
-                                        <span class="repo">ivan770/home-manager</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">master</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#ac72169</div>
-                                        <div class="message">firefox: fix folders not showing in toolbar
-
-Fixes #4568</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#948703f</div>
-                                        <div class="message">broot: Add nushell integration (#4714)
-
-Add additional config flag `enableNushellIntegration` in broot.nix to
-setup broot/br for nushell.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#e504e8d</div>
-                                        <div class="message">Translate using Weblate (Dutch)
-
-Currently translated at 100.0% (18 of 18 strings)
-
-Translate using Weblate (Dutch)
-
-Currently translated at 91.4% (32 of 35 strings)
-
-Co-authored-by: Zurga &lt;jim.lemmers@gmail.com&gt;
-Translate-URL: https://hosted.weblate.org/projects/home-manager/cli/nl/
-Translate-URL: https://hosted.weblate.org/projects/home-manager/modules/nl/
-Translation: Home Manager/Home Manager CLI
-Translation: Home Manager/Home Manager Modules</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#efe28e2</div>
-                                        <div class="message">Translate using Weblate (Italian)
-
-Currently translated at 100.0% (18 of 18 strings)
-
-Translate using Weblate (Italian)
-
-Currently translated at 100.0% (35 of 35 strings)
-
-Co-authored-by: Lorenzo Brzek &lt;lorenzoservizi@proton.me&gt;
-Translate-URL: https://hosted.weblate.org/projects/home-manager/cli/it/
-Translate-URL: https://hosted.weblate.org/projects/home-manager/modules/it/
-Translation: Home Manager/Home Manager CLI
-Translation: Home Manager/Home Manager Modules</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#ce67b37</div>
-                                        <div class="message">Translate using Weblate (Russian)
-
-Currently translated at 100.0% (35 of 35 strings)
-
-Co-authored-by: Blezz Rot &lt;markus.jenya04@yandex.ru&gt;
-Translate-URL: https://hosted.weblate.org/projects/home-manager/cli/ru/
-Translation: Home Manager/Home Manager CLI</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#0d40107</div>
-                                        <div class="message">flake.lock: Update
-
-Flake lock file updates:
-
-• Updated input 'nixpkgs':
-    'github:NixOS/nixpkgs/5a09cb4b393d58f9ed0d9ca1555016a8543c2ac8' (2023-11-24)
-  → 'github:NixOS/nixpkgs/e92039b55bcd58469325ded85d4f58dd5a4eaf58' (2023-11-29)</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#4a8545f</div>
-                                        <div class="message">swayidle: add systemd suspend to example</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#9e86982</div>
-                                        <div class="message">swayidle: daemonize swaylock in example configuration</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#ef90882</div>
-                                        <div class="message">Translate using Weblate (Russian)
-
-Currently translated at 94.2% (33 of 35 strings)
-
-Co-authored-by: Nikolay Mokrinsky &lt;me@mokrinsky.ru&gt;
-Translate-URL: https://hosted.weblate.org/projects/home-manager/cli/ru/
-Translation: Home Manager/Home Manager CLI</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#3d154da</div>
-                                        <div class="message">Translate using Weblate (Russian)
-
-Currently translated at 94.2% (33 of 35 strings)
-
-Co-authored-by: Blezz Rot &lt;markus.jenya04@yandex.ru&gt;
-Translate-URL: https://hosted.weblate.org/projects/home-manager/cli/ru/
-Translation: Home Manager/Home Manager CLI</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#2a604e6</div>
-                                        <div class="message">Translate using Weblate (Portuguese (Brazil))
-
-Currently translated at 100.0% (18 of 18 strings)
-
-Translate using Weblate (Portuguese (Brazil))
-
-Currently translated at 100.0% (35 of 35 strings)
-
-Co-authored-by: Gabriel Fontes &lt;hi@m7.rs&gt;
-Translate-URL: https://hosted.weblate.org/projects/home-manager/cli/pt_BR/
-Translate-URL: https://hosted.weblate.org/projects/home-manager/modules/pt_BR/
-Translation: Home Manager/Home Manager CLI
-Translation: Home Manager/Home Manager Modules</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#db1878f</div>
-                                        <div class="message">home-manager: add 24.05 as valid state version</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#7c97c46</div>
-                                        <div class="message">signaturepdf: add service</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#8340c0b</div>
-                                        <div class="message">flake.lock: Update
-
-Flake lock file updates:
-
-• Updated input 'nixpkgs':
-    'github:NixOS/nixpkgs/c757e9bd77b16ca2e03c89bf8bc9ecb28e0c06ad' (2023-11-17)
-  → 'github:NixOS/nixpkgs/5a09cb4b393d58f9ed0d9ca1555016a8543c2ac8' (2023-11-24)
-
-Co-authored-by: github-actions[bot] &lt;github-actions[bot]@users.noreply.github.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#a462e73</div>
-                                        <div class="message">yazi: update shell integrations and docs</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#8cedd63</div>
-                                        <div class="message">fish: support flexible abbreviations
-
-https://github.com/fish-shell/fish-shell/releases/tag/3.6.0</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#e1f3b36</div>
-                                        <div class="message">home-manager: set unstable release to 24.05</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#aeb2232</div>
-                                        <div class="message">home-manager: set stable release to 23.11</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#134deb4</div>
-                                        <div class="message">bat: support boolean flags in config
-
-Previously, users cannot enable boolean flags like `--show-all` in bat's
-config since all options were expected to be either a string, or a list
-of strings. With this commit boolean flags are simply appended to the
-end of the config if they are set to `true`, and discarded otherwise.
-
-For example, the config
-
-    {
-      theme = "TwoDark";
-      show-all = true;
-      lessopen = false;
-    }
-
-would produce a config file that looks like
-
-    --theme='TwoDark'
-    --show-all
-
-Fixes #4657</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#1bd1e86</div>
-                                        <div class="message">ruff: add module
-
-ruff is Python linter and code formatter, written in Rust.
-See &lt;https://docs.astral.sh/ruff/&gt;.</div>
                                     </div>
                                 </div>
                             </section>
@@ -1265,7 +1111,7 @@ See &lt;https://docs.astral.sh/ruff/&gt;.</div>
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Maintainer
-                                    <span class="gh">ranked 257k out of 66.5m repositories</span>
+                                    <span class="gh">ranked 257k out of 56.4m repositories</span>
                                     <div class="value-wrapper">
                                         <div class="value">140</div>
                                     </div>
@@ -1314,7 +1160,7 @@ See &lt;https://docs.astral.sh/ruff/&gt;.</div>
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 856k out of 66.5m repositories</span>
+                                    <span class="gh">ranked 856k out of 56.4m repositories</span>
                                     <div class="value-wrapper">
                                         <div class="value">13</div>
                                     </div>
