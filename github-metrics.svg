@@ -138,7 +138,7 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M2.75 1.5a.25.25 0 00-.25.25v12.5c0 .138.112.25.25.25h10.5a.25.25 0 00.25-.25V4.664a.25.25 0 00-.073-.177l-2.914-2.914a.25.25 0 00-.177-.073H2.75zM1 1.75C1 .784 1.784 0 2.75 0h7.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v9.586A1.75 1.75 0 0113.25 16H2.75A1.75 1.75 0 011 14.25V1.75zm7 1.5a.75.75 0 01.75.75v1.5h1.5a.75.75 0 010 1.5h-1.5v1.5a.75.75 0 01-1.5 0V7h-1.5a.75.75 0 010-1.5h1.5V4A.75.75 0 018 3.25zm-3 8a.75.75 0 01.75-.75h4.5a.75.75 0 010 1.5h-4.5a.75.75 0 01-.75-.75z"/>
                                     </svg>
-                                    30m added, 22.1m removed
+                                    19.2m added, 7.32m removed
                                 </div>
                             </section>
                             <section>
@@ -666,6 +666,114 @@
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
+                                        Pushed 358 commits in
+                                        <span class="repo">ivan770/nixpkgs</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">master</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#00225ac</div>
+                                        <div class="message">python310Packages.flet-runtime: 0.15.0 -&gt; 0.17.0</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#0775a7f</div>
+                                        <div class="message">python310Packages.flet-core: 0.15.0 -&gt; 0.17.0</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#4724490</div>
+                                        <div class="message">python310Packages.flet: 0.15.0 -&gt; 0.17.0</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#14f0b7d</div>
+                                        <div class="message">mpvScripts.simple-mpv-webui: Fix `scriptName`</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#ad95e29</div>
+                                        <div class="message">mpvScripts.mpvacious: Fix `scriptName`</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#f4e390d</div>
+                                        <div class="message">mpvScripts: Test that dir-packaged scripts contain exactly one `main.*`</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#1bb85ca</div>
+                                        <div class="message">mpvScripts: Add test validating `scriptName`</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#2a74779</div>
+                                        <div class="message">legba: 0.6.1 -&gt; 0.7.1</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#85e0f8e</div>
+                                        <div class="message">ibus: fix skipping key release events[1] in Wine
+
+[1]: https://github.com/ibus/ibus/issues/2480</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#ff3fd86</div>
+                                        <div class="message">postgresql12JitPackages.tds_fdw: unstable-2023-09-28 -&gt; unstable-2023-12-04</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#dedf595</div>
+                                        <div class="message">aflplusplus: 4.08c -&gt; 4.09c</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#66c38ab</div>
+                                        <div class="message">python310Packages.glueviz: 1.16.0 -&gt; 1.17.1</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#572300c</div>
+                                        <div class="message">vieb: 10.6.0 -&gt; 11.0.0</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#4084ee0</div>
+                                        <div class="message">make-initrd-ng: fix reproducibility problems
+
+The previous find invocation didn't match the root directory, so the
+root directory's access and modification time wasn't set to a
+deterministic value and the build time leaked into the output.
+
+`make-initrd` replaced `cpio` with `bsdtar` in #165892 because the
+former includes the number of hardlinks in the created archive, which
+depends on the filesystem (and can also be influenced by `nix-store
+--optimise`). The same problem applies to `make-initrd-ng`, so this
+commit replaces `cpio` with `libarchive`'s `bsdtar`.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#6c19bd6</div>
+                                        <div class="message">nginxModules.zstd: 0.1.0 -&gt; 0.1.1</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#62acc4e</div>
+                                        <div class="message">faust: 2.59.6 -&gt; 2.69.3</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#7d2e154</div>
+                                        <div class="message">python311Packages.sudachipy: init at 0.6.7</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#4fcc2ea</div>
+                                        <div class="message">python311Packages.sudachidict-core: init at 20230927</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#fa55527</div>
+                                        <div class="message">sudachi-rs: init at 0.6.7</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#e2fb2e8</div>
+                                        <div class="message">sudachidict: init at 20230927</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
                                         Pushed 1 commit in
                                         <span class="repo">ivan770/nixpkgs</span>
                                     </div>
@@ -728,127 +836,6 @@
                                         <span class="code">update-zola</span>
                                         in
                                         <span class="repo">ivan770/nixpkgs</span>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 6764 commits in
-                                        <span class="repo">ivan770/nixpkgs</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">master</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#2321da5</div>
-                                        <div class="message">Merge pull request #275451 from r-ryantm/auto-update/python310Packages.google-ai-generativelanguage
-
-python310Packages.google-ai-generativelanguage: 0.3.5 -&gt; 0.4.0</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#7ca0a77</div>
-                                        <div class="message">Merge pull request #275457 from r-ryantm/auto-update/python310Packages.google-cloud-artifact-registry
-
-python310Packages.google-cloud-artifact-registry: 1.9.0 -&gt; 1.10.0</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#ea5832f</div>
-                                        <div class="message">python310Packages.grpcio-testing: 1.59.0 -&gt; 1.60.0</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#2acdaf7</div>
-                                        <div class="message">Merge pull request #275334 from r-ryantm/auto-update/armadillo
-
-armadillo: 12.6.6 -&gt; 12.6.7</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#039ea0b</div>
-                                        <div class="message">Merge pull request #274715 from r-ryantm/auto-update/linkerd
-
-linkerd: 2.14.5 -&gt; 2.14.6</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#106aa4c</div>
-                                        <div class="message">Merge pull request #274524 from r-ryantm/auto-update/hubble
-
-hubble: 0.12.2 -&gt; 0.12.3</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#52660f8</div>
-                                        <div class="message">wayland-proxy-virtwl: unstable-2023-10-27 -&gt; unstable-2023-11-28</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#640f11c</div>
-                                        <div class="message">python310Packages.grpcio-reflection: 1.59.3 -&gt; 1.60.0</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#98dffd1</div>
-                                        <div class="message">python310Packages.grpcio-health-checking: 1.59.3 -&gt; 1.60.0</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#3a49f39</div>
-                                        <div class="message">python310Packages.grpcio-channelz: 1.59.3 -&gt; 1.60.0</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#6412110</div>
-                                        <div class="message">hareThirdParty.hare-ev: init at unstable-2023-10-31
-
-* hareThirdParty.hare-ev: init at unstable-2023-10-30 (#274505)
-
----------
-
-Co-authored-by: Janik &lt;80165193+Janik-Haag@users.noreply.github.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#0ddc907</div>
-                                        <div class="message">Merge pull request #273441 from JulienMalka/systemd-boot-garbage-test-rename</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#63c7ae5</div>
-                                        <div class="message">python310Packages.grad-cam: 1.4.8 -&gt; 1.5.0</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#4139739</div>
-                                        <div class="message">python310Packages.gotenberg-client: 0.3.0 -&gt; 0.4.1</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#adf9f44</div>
-                                        <div class="message">python310Packages.google-cloud-websecurityscanner: 1.12.3 -&gt; 1.13.0</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#5206e20</div>
-                                        <div class="message">deno: fix darwin build
-
-Provide missing framework
-Fix substitution to avoid using lld</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#aef2be6</div>
-                                        <div class="message">Merge pull request #275437 from GaetanLepage/ollama
-
-vimPlugins.ollama-nvim: init at 2023-12-03</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#a214e66</div>
-                                        <div class="message">Merge pull request #273868 from jbedo/tesseract
-
-rPackages.tesseract: fix build</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#7dcf646</div>
-                                        <div class="message">Merge pull request #275350 from r-ryantm/auto-update/last
-
-last: 1518 -&gt; 1519</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#f5a80d9</div>
-                                        <div class="message">python310Packages.google-cloud-videointelligence: 2.11.4 -&gt; 2.12.0</div>
                                     </div>
                                 </div>
                             </section>
@@ -1210,7 +1197,7 @@ last: 1518 -&gt; 1519</div>
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Maintainer
-                                    <span class="gh">ranked 257k out of 56.7m repositories</span>
+                                    <span class="gh">ranked 257k out of 63.7m repositories</span>
                                     <div class="value-wrapper">
                                         <div class="value">140</div>
                                     </div>
@@ -1259,7 +1246,7 @@ last: 1518 -&gt; 1519</div>
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 857k out of 56.7m repositories</span>
+                                    <span class="gh">ranked 837k out of 63.7m repositories</span>
                                     <div class="value-wrapper">
                                         <div class="value">13</div>
                                     </div>
